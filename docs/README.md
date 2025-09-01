@@ -1,4 +1,3 @@
-````markdown
 # 🎮 Terminal Multiplayer Arcade
 
 A sophisticated Python-based multiplayer game server that brings classic arcade games to the terminal with real-time networking capabilities.
@@ -197,6 +196,3 @@ We welcome contributions\! Please feel free to submit pull requests for:
 -----
 
 🕹️ Experience the perfect blend of classic gaming nostalgia and modern networking technology with **Terminal Multiplayer Arcade**\!
-
-```
-```
